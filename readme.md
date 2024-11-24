@@ -38,7 +38,7 @@ https://pytorch.org/
 
 `Tải phiên bản cuda dưới hoặc bằng với Cuda version gần nhất bạn check được`
 
-` Nếu không chạy được thì cài đặt với phiên bản khác và không thấy Tensorrt thì nhúng DLL vào trong thư mục chạy file python luôn`
+` Nếu không chạy được thì cài đặt với phiên bản khác và không thấy Tensorrt thì nhúng DLL vào trong thư mục library của môi trường anaconda luôn`
 
 Nếu bạn không chạy được thì có thể xem video hướng dẫn tại đây:
 
