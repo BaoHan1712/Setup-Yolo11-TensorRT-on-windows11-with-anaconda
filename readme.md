@@ -43,3 +43,6 @@ https://pytorch.org/
 Nếu bạn không chạy được thì có thể xem video hướng dẫn tại đây:
 
 https://www.youtube.com/watch?v=WgPbbWmnXJ8&list=PLRt4lJgHZIbcKKXyyRQeOBhsokFakKg1r&index=6&ab_channel=Murtaza%27sWorkshop-RoboticsandAI
+
+## Copyright
+© 2024 [BaoHan1712]. All rights reserved.
