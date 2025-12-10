@@ -22,6 +22,14 @@ https://developer.nvidia.com/tensorrt-download
 
 Sao chép tất cả  các tệp dll (chỉ DLL!) từ thư mục lib TensorRT vào  thư mục bin CUDA .
 
+Copy các DLL vào 3 chỗ sau:
+
+1. D:\anaconda\envs\pyenv\Library\bin\
+
+2.D:\anaconda\envs\pyenv\DLLs\
+
+3. D:\anaconda\envs\pyenv\Lib\site-packages\tensorrt.libs\
+
 6 Tải anaconda về để setup môi trường ảo
 
 - Di chuyển đến từng thư mục TensorRT và cài đặt tất cả bằng Python pip:
