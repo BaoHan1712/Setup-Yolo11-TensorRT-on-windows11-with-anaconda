@@ -50,6 +50,8 @@ https://pytorch.org/
 
 ` Nếu không chạy được thì cài đặt với phiên bản khác và không thấy Tensorrt thì nhúng DLL vào trong thư mục C:\Users\Admin\miniconda3\envs\pyenv\Lib\site-packages của môi trường anaconda luôn`
 
+NHỚ TẮT VSCODE CHẠY LẠI ĐỂ RESET TERMINAL
+
 Nếu bạn không chạy được thì có thể xem video hướng dẫn tại đây:
 
 https://www.youtube.com/watch?v=WgPbbWmnXJ8&list=PLRt4lJgHZIbcKKXyyRQeOBhsokFakKg1r&index=6&ab_channel=Murtaza%27sWorkshop-RoboticsandAI
